@@ -63,5 +63,9 @@ Feel free to connect with me on GitHub or other platforms:
 
 - GitHub: [sh-y-zu](https://github.com/sh-y-zu)
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/sh-y-zu/Clipboard-Copy-JavaScript-Utility/blob/main/LICENSE).
+
 
 
