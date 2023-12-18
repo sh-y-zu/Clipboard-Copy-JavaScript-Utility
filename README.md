@@ -49,3 +49,19 @@ The `textToClipboard` function performs the following steps:
 
 Feel free to contribute to the development of this utility. If you have suggestions, bug reports, or improvements, please open an issue or submit a pull request.
 
+## Fun Fact
+
+Did you know that you can use this JavaScript utility along with browser inspect on WhatsApp Web to copy the numbers of group members? 🕵️‍♂️💼
+
+**Disclaimer:** Always respect privacy and adhere to ethical guidelines. Use this utility responsibly and ensure that you have the necessary permissions before copying any information.
+
+Enjoy exploring the possibilities and happy coding! 😄
+
+## Connect with me
+
+Feel free to connect with me on GitHub or other platforms:
+
+- GitHub: [sh-y-zu](https://github.com/sh-y-zu)
+
+
+
